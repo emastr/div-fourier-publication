@@ -11,7 +11,7 @@ the `framework` folder also contains tools for plotting results and loading wind
 
 ## Recommended material
 
-If you are new here, a good way of getting accquainted with how the code works is to
+If you are new here, a good way of getting accquainted the code works is to follow the procedure below.
 
 * Read `TUTORIAL-Windfield_models.ipynb` to learn about how to define and train models within the framework.
 * If you are interested in the Neural network interpolation approach, read the `neural_network_demo_tronstad.ipynb` notebook by Magnus Tronstad.
